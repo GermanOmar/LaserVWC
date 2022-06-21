@@ -1,1 +1,7 @@
-# LaserVWC
+# Vibration-assisted laser welding: Frequency and amplitude vibration effect on the microhardness of A36 steel
+
+Abstract
+
+Laser welding is one of the most versatile welding techniques for joining advanced materials. However, thermal cycles induced around weld lines generate residual stresses and inhomogeneous plastic deformation during the welding process. Vibratory weld conditioning is an alternative to enhance the mechanical properties of metal sheets during casting and welding. This study aims to analyze the effects of vibration on the microhardness of the resolidified melt zone after a laser weldment. Two 1 mm thick A36 steel sheets were welded in lap configuration using a CO2 laser, with varying vibration amplitudes up to 0.56 mm peak-to-peak and frequencies up to 1034 Hz. We confirmed that mechanical vibrations during the welding process alter the final properties of the joint compared to non-vibrated samples. Based on the experimental results, vibration can either increase or decrease the bead's final microhardness in a range of [−5%, 7%] by controlling the frequency and vibration amplitude. Furthermore, average microhardness was predicted by applying several machine learning regressors, showing an accuracy of ±3%, denoting the usefulness of the random forest and AdaBoost algorithms provide.
+
+J. G. Vidal, G. O. Barrionuevo, J. A. Ramos-grez, J. Vergara, and J. L. Mullo, “Vibration-assisted laser welding : Frequency and amplitude vibration effect on the microhardness of A36 steel,” Proc. Inst. Mech. Eng. Part L J. Mater. Des. Appl., 2022. https://doi.org/10.1177/14644207221102659
